@@ -1,0 +1,21 @@
+spider,black,8
+bluebird,blue,2
+pig,pink,4
+artic fox,white,4
+goat,grey,4
+lion,yellow,4
+dog,yellow,4
+frog,green,4
+zebra,black and white,4
+cow,brown,4
+dog,black,4
+chicken,white,2
+snake,green,0
+dog,white,4
+dog,brown,4
+clownfish,orange and white,0
+articfox,white,4
+fox,orange,4
+hog,yellow,4
+cat,white,4
+horse,white,4
